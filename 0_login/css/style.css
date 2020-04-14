@@ -1,0 +1,66 @@
+
+    body { 
+        margin:50%;
+        margin: 0;
+        padding: 0;
+        position: static;
+        font-family: sans-serif;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        opacity:0;
+        transition: opacity 1s;
+        -webkit-transition: opacity 1s; /* Safari */
+    
+        }
+
+    .backGround{
+        position: ;
+        top: -20%;
+    }
+    .logo{
+        margin-top: 30px;
+        position: absolute;
+        left: 12%;
+    }
+    .upperLogin{
+        background-color: white;
+        height: 100px;
+        border-radius: 25px 25px 0px 0px;
+        
+    }
+    .loginSq{
+        display: inline-block;
+        background-color: #eeeeee;
+        border-radius: 25px;
+        position: relative;
+        margin-top: 230px;
+        width: 400px;
+        height: 300px;
+    }
+    
+    .login-up-left{
+        margin-left: 40px;
+        margin-top:30px;
+        font-size: 20px;
+        color: #656565;
+        display: inline-block;
+        float: left;
+        width: 60%;
+    }
+    #LoginWord{
+        margin-left: -148px;
+    }
+    .inText{
+        
+        margin-left: 4px;
+        padding: 30px;
+    }
+    #user{
+        color: #828181;
+        border: 1px solid #ccc;
+        font-size: 14px;
+        border-radius: 3px;
+        padding: 9px;
+    }
